@@ -200,7 +200,7 @@ export default function Home() {
 
           <div className="text-center mt-12">
             <a
-              href="https://wa.me/919868228172?text=HI"
+              href="https://wa.me/918968228172?text=%F0%9F%99%8F%20Namaste!%20Main%20Bhartiya%20AI%20ke%20baare%20mein%20jaanna%20chahta%20hoon."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-green text-white px-8 py-3.5 rounded-full text-lg font-medium hover:bg-green-dark transition shadow-lg"
@@ -225,7 +225,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://wa.me/919868228172?text=HI"
+              href="https://wa.me/918968228172?text=%F0%9F%99%8F%20Namaste!%20Main%20Bhartiya%20AI%20ke%20baare%20mein%20jaanna%20chahta%20hoon."
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-saffron px-8 py-3.5 rounded-full text-lg font-bold hover:bg-gray-100 transition"

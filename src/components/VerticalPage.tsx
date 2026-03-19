@@ -51,7 +51,7 @@ export default function VerticalPage({
               {description}
             </p>
             <a
-              href={`https://wa.me/919868228172?text=${whatsappText}`}
+              href={`https://wa.me/918968228172?text=${whatsappText}`}
               target="_blank"
               rel="noopener noreferrer"
               className={`inline-flex items-center gap-2 bg-green text-white px-8 py-3.5 rounded-full text-lg font-medium hover:bg-green-dark transition shadow-lg`}
@@ -140,7 +140,7 @@ export default function VerticalPage({
                   ))}
                 </ul>
                 <a
-                  href={`https://wa.me/919868228172?text=${whatsappText}`}
+                  href={`https://wa.me/918968228172?text=${whatsappText}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`block text-center py-3 rounded-full font-medium transition ${
@@ -169,7 +169,7 @@ export default function VerticalPage({
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href={`https://wa.me/919868228172?text=${whatsappText}`}
+              href={`https://wa.me/918968228172?text=${whatsappText}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-green text-white px-8 py-3.5 rounded-full text-lg font-medium hover:bg-green-dark transition"
