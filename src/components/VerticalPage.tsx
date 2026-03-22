@@ -183,6 +183,12 @@ export default function VerticalPage({
               View All Products
             </Link>
           </div>
+          <p className="mt-6 text-sm text-gray-400">
+            <Link href="/privacy-policy" className="underline hover:text-white transition">
+              Privacy Policy
+            </Link>
+            {" "}— Your data is safe with us
+          </p>
         </div>
       </section>
     </>
